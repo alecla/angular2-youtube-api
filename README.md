@@ -6,8 +6,11 @@ go the the following link:
 https://console.cloud.google.com (You need to be signed in with your google account)
 
 first cd in to project folder
+
 npm install
+
 npm run
+
 Enjoy!
 
 
