@@ -9,7 +9,7 @@ export class YoutubeService {
   constructor (private http: Http) {}
 
   //Your API key to Youtube
-  private youtubeURL = 'https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&q=Angels+and+airwaves&type=video&key=AIzaSyC0XIZRbnmx3dXpFz7jv_95r60Jf0RzzIE';
+  private youtubeURL = 'https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&q=Angels+and+airwaves&type=video&key={API_KEY_HERE}';
 
   //Get videos
   getVideos() {
