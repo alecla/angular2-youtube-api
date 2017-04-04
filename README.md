@@ -1,15 +1,21 @@
 # angular2-youtube-api
 Little app trying out angular2 and youtube api
 
-You need to generate your own Youtube API Key
-go the the following link:
-https://console.cloud.google.com (You need to be signed in with your google account)
+## What is this?
+Simple wiki built with react and firebase as backend
 
-first cd in to project folder
+## Generate Youtube API key
+Go the the following link:
+* https://console.cloud.google.com (You need to be signed in with your google account)
 
-npm install
+## How-to
 
-npm run
+```bash 
+* clone repo
+* cd in folder
+* 'npm install'
+* 'npm run start' to fire up dev server and start messing around!
+```
 
 Enjoy!
 
