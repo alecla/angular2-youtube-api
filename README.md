@@ -8,15 +8,14 @@ Simple wiki built with react and firebase as backend
 Go the the following link:
 * https://console.cloud.google.com (You need to be signed in with your google account)
 
-## How-to
+## Build Setup
 
-```bash 
-* clone repo
-* cd in folder
-* 'npm install'
-* 'npm run start' to fire up dev server and start messing around!
+``` bash
+# install dependencies
+npm install
+
+# server
+npm run start
 ```
 
 Enjoy!
-
-
